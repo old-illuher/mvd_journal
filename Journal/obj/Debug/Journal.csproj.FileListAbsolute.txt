@@ -1,0 +1,24 @@
+G:\Journal\Journal\bin\Debug\Journal.exe.config
+G:\Journal\Journal\bin\Debug\Journal.exe
+G:\Journal\Journal\bin\Debug\Journal.pdb
+G:\Journal\Journal\obj\Debug\Journal.csprojAssemblyReference.cache
+G:\Journal\Journal\obj\Debug\Journal.Form1.resources
+G:\Journal\Journal\obj\Debug\Journal.Properties.Resources.resources
+G:\Journal\Journal\obj\Debug\Journal.csproj.GenerateResource.cache
+G:\Journal\Journal\obj\Debug\Journal.csproj.CoreCompileInputs.cache
+G:\Journal\Journal\obj\Debug\Journal.exe
+G:\Journal\Journal\obj\Debug\Journal.pdb
+G:\Journal\Journal\obj\Debug\Journal.AddForm.resources
+E:\Journal — копия\Journal\obj\Debug\Journal.AddForm.resources
+E:\Journal — копия\Journal\obj\Debug\Journal.Form1.resources
+E:\Journal — копия\Journal\obj\Debug\Journal.Properties.Resources.resources
+E:\Journal — копия\Journal\obj\Debug\Journal.csproj.GenerateResource.cache
+E:\Journal — копия\Journal\obj\Debug\Journal.csproj.CoreCompileInputs.cache
+E:\Journal — копия\Journal\obj\Debug\Journal.exe
+E:\Journal — копия\Journal\obj\Debug\Journal.pdb
+E:\Journal — копия\Journal\bin\Debug\Journal.exe.config
+E:\Journal — копия\Journal\bin\Debug\Journal.exe
+E:\Journal — копия\Journal\bin\Debug\Journal.pdb
+E:\Journal — копия\Journal\bin\Debug\MySql.Data.dll
+E:\Journal — копия\Journal\obj\Debug\Journal.csproj.CopyComplete
+E:\Journal — копия\Journal\bin\Debug\ExtendedControls.dll

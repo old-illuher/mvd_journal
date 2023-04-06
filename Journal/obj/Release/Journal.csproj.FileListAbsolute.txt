@@ -1,0 +1,13 @@
+E:\Journal — копия\Journal\bin\Release\Journal.exe.config
+E:\Journal — копия\Journal\bin\Release\Journal.exe
+E:\Journal — копия\Journal\bin\Release\Journal.pdb
+E:\Journal — копия\Journal\obj\Release\Journal.csprojAssemblyReference.cache
+E:\Journal — копия\Journal\obj\Release\Journal.AddForm.resources
+E:\Journal — копия\Journal\obj\Release\Journal.Form1.resources
+E:\Journal — копия\Journal\obj\Release\Journal.Properties.Resources.resources
+E:\Journal — копия\Journal\obj\Release\Journal.csproj.GenerateResource.cache
+E:\Journal — копия\Journal\obj\Release\Journal.csproj.CoreCompileInputs.cache
+E:\Journal — копия\Journal\obj\Release\Journal.exe
+E:\Journal — копия\Journal\obj\Release\Journal.pdb
+E:\Journal — копия\Journal\bin\Release\MySql.Data.dll
+E:\Journal — копия\Journal\obj\Release\Journal.csproj.CopyComplete

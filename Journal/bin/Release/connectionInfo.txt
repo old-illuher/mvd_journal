@@ -1,0 +1,1 @@
+server=127.0.0.1;user=root;password=1234;database=Journal;port=3306;charset=utf8;
